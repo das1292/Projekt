@@ -1,0 +1,5 @@
+DELIMITER //
+CREATE FUNCTION baz (s CHAR(20))
+RETURNS CHAR(50) DETERMINISTIC
+RETURN CONCAT('Project zaliczeniowy z ',s,'!');
+END //

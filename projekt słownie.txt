@@ -1,0 +1,1 @@
+Baza przedstawia baze sklepu ,w którym znajdują się pracownicy oraz wyposażenie w postaci towarów i sprzętu odpowiednio dla stanowisk. Każda tabela odpawiadająca za produkty jest połączona z producentem. Każdy pracownik posiada właśnie stanowisko.
